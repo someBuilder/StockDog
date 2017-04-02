@@ -1,1 +1,1 @@
-This file contains some changes. More text changes.
+Diff. This file contains some changes. More text changes.
